@@ -1,5 +1,6 @@
 # invoice
-for RapidoBooks internship
+For RapidoBooks internship.
+
 Here's a summary of the files and the overall code:
 
 run.js: This file sets up an Express server and connects it to a MongoDB database using Mongoose. It listens on port 5000 and uses the routes defined in routes.js.
