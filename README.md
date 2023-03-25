@@ -1,5 +1,4 @@
 # invoice
-For RapidBooks internship.
 
 Here's a summary of the files and the overall code:
 
